@@ -21,9 +21,7 @@ Check out the Weather Application in action! [Live Demo](#) *(Link to live demo)
 
 Take a peek at the Weather Application:
 
-![Screenshot 1](#) *(Screenshot 1)*
-
-![Screenshot 2](#) *(Screenshot 2)*
+[Screenshot of the weather application](https://github.com/jhanviisinghh/PRODIGY_WD_05/blob/main/WEATHER%20APPLICATION.png)
 
 ## Technologies Used
 
